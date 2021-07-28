@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hello! 👋
 
-<!--
-**ryanpereirax/ryanpereirax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Ryan Pereira, I'm from Recife, Pernambuco, Brazil and I'm a Computer Scientist in Training, who intend to work as a Back-End. 
 
-Here are some ideas to get you started:
+I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👦 **Some stuff about me:**
+- I study at Catholic University of Pernambuco - PE | Computer science.🎓
+- I am currently working on my most important projects.
+- I love discovering and learning about new technologies.
+
+
+📫 **How to reach me:**
+
+- Discord: `lost#0008`
+- E-Mail: `ryan.2020109850@unicap.br`
+
+📚 **Some technologies I'm studying :**</h3></strong> 
+</p>
+<img height="20em" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+
+![Snake animation](https://github.com/davimateus1/davimateus1/blob/output/github-contribution-grid-snake.svg)
+

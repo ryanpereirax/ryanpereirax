@@ -19,5 +19,4 @@ I'm passionate about solving problems and learning. Always open to new challenge
 </p>
 <img height="20em" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 
-![Snake animation](https://github.com/davimateus1/davimateus1/blob/output/github-contribution-grid-snake.svg)
 

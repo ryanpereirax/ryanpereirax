@@ -11,7 +11,7 @@ I'm passionate about solving problems and learning. Always open to new challenge
 
 📫 **How to reach me:**
 
-- Discord: `lost#0008`
+- Discord: `lost#8291`
 - E-mail: `ryan.2020109850@unicap.br`
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ryanpereirax)](https://github.com/ryanpereirax) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ryanpereirax/)]( https://www.linkedin.com/in/ryanpereirax/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=black&link=https://www.instagram.com/ryanpereirax/)]( https://www.instagram.com/ryanpereirax/) 

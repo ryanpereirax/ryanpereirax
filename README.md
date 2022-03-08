@@ -1,6 +1,6 @@
 # Hello! 👋
 
-My name is Ryan Pereira, I'm from Recife, Pernambuco, Brazil and I'm a Computer Scientist in Training, who intend to work as a Back-End. 
+My name is Ryan Pereira, I'm from Recife, Pernambuco, Brazil and I'm a Computer Scientist in Training, who intend to work as a Front-End. 
 
 I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
 

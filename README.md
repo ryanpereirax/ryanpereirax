@@ -19,6 +19,7 @@ I'm passionate about solving problems and learning. Always open to new challenge
 📚 **Some technologies I'm studying :**</h3></strong> 
 </p>
 <img height="20em" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> 
-<img height="20em" src="https://img.shields.io/badge/Python-ED8B35?style=for-the-badge&logo=python&logoColor=black"/> 
-<img height="20em" src="https://img.shields.io/badge/JS-ED8B55?style=for-the-badge&logo=javascript&logoColor=black"/> 
+<img height="20em" src="https://img.shields.io/badge/Python-ED8B380?style=for-the-badge&logo=python&logoColor=white"/> 
+<img height="20em" src="https://img.shields.io/badge/JS-ED8B120?style=for-the-badge&logo=javascript&logoColor=white"/>
+
                         

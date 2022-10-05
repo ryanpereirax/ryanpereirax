@@ -20,6 +20,6 @@ I'm passionate about solving problems and learning. Always open to new challenge
 </p>
 <img height="20em" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> 
 <img height="20em" src="https://img.shields.io/badge/Python-ED8B380?style=for-the-badge&logo=python&logoColor=white"/> 
-<img height="20em" src="https://img.shields.io/badge/JS-ED8B120?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img height="20em" src="https://img.shields.io/badge/JS-ED8B170?style=for-the-badge&logo=javascript&logoColor=white"/>
 
                         

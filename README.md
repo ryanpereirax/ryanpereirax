@@ -1,14 +1,9 @@
 <div>
-  <p><a href="https://portfolio-ryan.vercel.app/"><img src="https://github.com/ryanpereirax/ryanpereirax/blob/main/Banner%20Github.png.jpg" width="100%" height="auto"/></a></p>
-<p align="right">
-  
+## BEM VINDO AO MEU GITHUB
+<p><p></p> 
   <a href="https://instagram.com/ryanpereirax" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ryanpereirax" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</p>
-</div>
-
-## BEM VINDO AO MEU GITHUB
-
+</p> </div>
 ![Snake animation](https://github.com/ryanpereirax/ryanpereirax/blob/output/github-contribution-grid-snake.svg)
 
 <p>My name is Ryan Pereira, I'm from Recife, Pernambuco, Brazil and I'm a Computer Scientist in Training.

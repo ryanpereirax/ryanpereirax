@@ -1,4 +1,7 @@
 <div>
+  <p><a href="https://portfolio-ryan.vercel.app/"><img src="https://github.com/ryanpereirax/ryanpereirax/blob/main/imagens/Banner%20Github.png?raw=true" width="100%" height="auto"/></a></p>
+<p align="right">
+  
   <a href="https://instagram.com/ryanpereirax" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ryanpereirax" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </p>

@@ -21,7 +21,7 @@
 
 - E-mail: `ryanprj123@gmail.com`
 
-The programming languages ​​that I have knowledge are: Java, CSS, JS and Python.</p>
+The programming languages ​​that I have knowledge are: Java, CSS, JS, Python and Kotlin.</p>
 
 <div>
 <a href="https://github.com/ryanpereirax">
@@ -30,3 +30,4 @@ The programming languages ​​that I have knowledge are: Java, CSS, JS and Pyt
 </div>
    
 <br />  
+<p>click on the <a href="https://portfolio-ryan.vercel.app/">RYAN PEREIRA</a> To go to my portfolio page with attached resume.<p/>

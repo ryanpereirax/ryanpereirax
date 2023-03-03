@@ -1,8 +1,16 @@
-# Hello! 👋
+<div>
+  <a href="https://instagram.com/ryanpereirax" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ryanpereirax" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</p>
+</div>
 
-My name is Ryan Pereira, I'm from Recife, Pernambuco, Brazil and I'm a Computer Scientist in Training. 
+## BEM VINDO AO MEU GITHUB
 
-I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
+![Snake animation](https://github.com/ryanpereirax/ryanpereirax/blob/output/github-contribution-grid-snake.svg)
+
+<p>My name is Ryan Pereira, I'm from Recife, Pernambuco, Brazil and I'm a Computer Scientist in Training.
+<p></p>  
+<p>I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
 
 👦 **Some stuff about me:**
 - I study at Catholic University of Pernambuco - PE | Computer science.🎓
@@ -11,15 +19,14 @@ I'm passionate about solving problems and learning. Always open to new challenge
 
 📫 **How to reach me:**
 
-- Discord: `!ᵛᵘˡᵍᵒ Lost#9837`
-- E-mail: `ryan.2020109850@unicap.br`
+- E-mail: `ryanprj123@gmail.com`
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ryanpereirax)](https://github.com/ryanpereirax) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ryanpereiradev/)]( https://www.linkedin.com/in/ryanpereirax/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=black&link=https://www.instagram.com/ryanpereirax/)]( https://www.instagram.com/ryanpereirax/) 
+The programming languages ​​that I have knowledge are: Java, CSS, JS and Python.</p>
 
-📚 **Some technologies I'm studying :**</h3></strong> 
-</p>
-<img height="20em" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> 
-<img height="20em" src="https://img.shields.io/badge/Python-ED8B380?style=for-the-badge&logo=python&logoColor=white"/> 
-<img height="20em" src="https://img.shields.io/badge/Javascript-ED8B60?style=for-the-badge&logo=javascript&logoColor=white"/>
-
-                        
+<div>
+<a href="https://github.com/ryanpereirax">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dfilitto&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dfilitto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+   
+<br />  

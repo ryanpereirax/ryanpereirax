@@ -8,7 +8,7 @@
 - Estudo na Universidade Católica de Pernambuco | Ciência da Computação.🎓
 - Atualmente, estou trabalhando nos meus projetos pessoais mais importantes lá no Medium.
 - Adoro descobrir e aprender sobre novas tecnologias.
-  
+  <p></p>
 📊 **Portfólio:**
 https://medium.com/@ryanpereirax
 

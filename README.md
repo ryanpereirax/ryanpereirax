@@ -18,8 +18,8 @@
 - Adoro descobrir e aprender sobre novas tecnologias.
   
 **Portfólio:**
-  Meus Projetoa: https://medium.com/@ryanpereirax
-<p>
+https://medium.com/@ryanpereirax
+
 📫 **Como entrar em contato comigo:**
 - E-mail: `ryanprj123@gmail.com`
 - Telefone `81 9 9882-6946`

@@ -18,7 +18,7 @@
 - Adoro descobrir e aprender sobre novas tecnologias.
   
   **Portfólio:**
-- https://medium.com/@ryanpereirax
+  Meus Projetoa: https://medium.com/@ryanpereirax
   
 📫 **Como entrar em contato comigo:**
 - E-mail: `ryanprj123@gmail.com`

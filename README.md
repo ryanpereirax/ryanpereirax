@@ -1,13 +1,5 @@
 ## BEM VINDO AO MEU GITHUB
 
-<div>
-<p><p></p> 
-  <a href="https://instagram.com/ryanpereirax" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ryanpereirax" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</p> </div>
-
-![Snake animation](https://github.com/ryanpereirax/ryanpereirax/blob/output/github-contribution-grid-snake.svg)
-
 <p>Meu nome é Ryan Pereira, sou de Recife, Pernambuco, Brasil, e sou Graduado em Ciencia da Computação.
 <p></p>
 <p>Sou apaixonado por resolver problemas e aprender. Estou sempre aberto a novos desafios e pronto para encarar mudanças.

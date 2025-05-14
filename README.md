@@ -2,7 +2,7 @@
 
 <p>Meu nome é Ryan Pereira, sou de Recife, Pernambuco, Brasil, e sou Graduado em Ciencia da Computação.
 <p></p>
-<p>Sou apaixonado por resolver problemas e aprender. Estou sempre aberto a novos desafios e pronto para encarar mudanças.
+<p> Focado em Análise de Dados. Estou sempre aberto a novos desafios e pronto para encarar mudanças.
 
 👦 **Algumas informações sobre mim:**
 - Estudo na Universidade Católica de Pernambuco | Ciência da Computação.🎓

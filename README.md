@@ -17,14 +17,13 @@
 - Atualmente, estou trabalhando nos meus projetos pessoais mais importantes lá no Medium.
 - Adoro descobrir e aprender sobre novas tecnologias.
   
-<p>
-  **Portfólio:**
+**Portfólio:**
   Meus Projetoa: https://medium.com/@ryanpereirax
 <p>
 📫 **Como entrar em contato comigo:**
 - E-mail: `ryanprj123@gmail.com`
 - Telefone `81 9 9882-6946`
-- 
+
   **Skills:**
 Tenho conhecimento avançado em SQL | Excel | Google Sheets | PowerBI | Python | PowerQuery | Machine Learning.</p>
 

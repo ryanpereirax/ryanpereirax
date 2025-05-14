@@ -17,7 +17,7 @@ https://medium.com/@ryanpereirax
 - Telefone: `81 9 9882-6946`
 
  📌 **Skills:**
-Tenho conhecimento avançado em SQL | Excel | Google Sheets | PowerBI | Python | PowerQuery | Machine Learning.</p>
+Tenho conhecimento avançado em SQL | Excel | Google Sheets | PowerBI | Python | PowerQuery | Machine Learning | KPIs </p>
 
 <div>
 <a href="https://github.com/ryanpereirax">

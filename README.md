@@ -14,7 +14,7 @@ https://medium.com/@ryanpereirax
 
 📫 **Como entrar em contato comigo:**
 - E-mail: `ryanprj123@gmail.com`
-- Telefone `81 9 9882-6946`
+- Telefone: `81 9 9882-6946`
 
  📌 **Skills:**
 Tenho conhecimento avançado em SQL | Excel | Google Sheets | PowerBI | Python | PowerQuery | Machine Learning.</p>

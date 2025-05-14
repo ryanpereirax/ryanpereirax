@@ -8,20 +8,20 @@
 
 ![Snake animation](https://github.com/ryanpereirax/ryanpereirax/blob/output/github-contribution-grid-snake.svg)
 
-<p>My name is Ryan Pereira, I'm from Recife, Pernambuco, Brazil and I'm a Computer Scientist in Training.
-<p></p>  
-<p>I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
+<p>Meu nome é Ryan Pereira, sou de Recife, Pernambuco, Brasil, e sou Graduado em Ciencia da Computação.
+<p></p>
+<p>Sou apaixonado por resolver problemas e aprender. Estou sempre aberto a novos desafios e pronto para encarar mudanças.
 
-👦 **Some stuff about me:**
-- I study at Catholic University of Pernambuco - PE | Computer science.🎓
-- I am currently working on my most important projects.
-- I love discovering and learning about new technologies.
+👦 **Algumas informações sobre mim:**
+- Estudo na Universidade Católica de Pernambuco - PE | Ciência da Computação.🎓
+- Atualmente, estou trabalhando nos meus projetos mais importantes.
+- Adoro descobrir e aprender sobre novas tecnologias.
 
-📫 **How to reach me:**
+📫 **Como entrar em contato comigo:**
 
 - E-mail: `ryanprj123@gmail.com`
 
-The programming languages ​​that I have knowledge are: Java, CSS, JS, Python and Kotlin.</p>
+Tenho conhecimento avançado em SQL | Excel | Google Sheets | PowerBI | Python | PowerQuery | Machine Learning.</p>
 
 <div>
 <a href="https://github.com/ryanpereirax">

@@ -16,10 +16,11 @@
 - Estudo na Universidade Católica de Pernambuco | Ciência da Computação.🎓
 - Atualmente, estou trabalhando nos meus projetos pessoais mais importantes lá no Medium.
 - Adoro descobrir e aprender sobre novas tecnologias.
-<p></p>
+  
+<p>
   **Portfólio:**
   Meus Projetoa: https://medium.com/@ryanpereirax
-<p></p>
+<p>
 📫 **Como entrar em contato comigo:**
 - E-mail: `ryanprj123@gmail.com`
 - Telefone `81 9 9882-6946`
